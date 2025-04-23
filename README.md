@@ -1,6 +1,6 @@
 ## I’m a front-end web developer and recent software engineering graduate passionate about creating clean, responsive, and engaging web applications. My core skillset includes HTML, CSS, JavaScript, ReactJS, Redux, Tailwind CSS, and Git/GitHub. I’m currently expanding my knowledge into backend development using .NET, aiming to become a well-rounded full-stack developer. I enjoy transforming ideas into real-world projects, solving problems with code, and building user experiences that leave an impact.
 ✅ Open to remote work, freelance gigs, internships, or junior front-end roles
-💬 Let’s connect, collaborate, or build something amazing!I’m a front-end web developer and recent software engineering graduate passionate about creating clean, responsive, and engaging web applications. My core skillset includes HTML, CSS, JavaScript, ReactJS, Redux, Tailwind CSS, and Git/GitHub. I’m currently expanding my knowledge into backend development using .NET, aiming to become a well-rounded full-stack developer. I enjoy transforming ideas into real-world projects, solving problems with code, and building user experiences that leave an impact. ✅ Open to remote work, freelance gigs, internships, or junior front-end roles 💬 Let’s connect, collaborate, or build something amazing!
+💬 Let’s connect, collaborate, or build something amazing!
 
 - 🔭 I’m currently working on my skills
 - 🌱 I’m currently learning MERN Stack
