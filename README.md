@@ -3,7 +3,7 @@
 💬 Let’s connect, collaborate, or build something amazing!
 
 - 🔭 I’m currently working on my skills
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning .NET backend development
 - 👯 I’m looking to collaborate on Web Projects
 
 ## 🌐 Socials:
