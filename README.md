@@ -1,6 +1,5 @@
-I’m a front-end web developer and recent software engineering graduate passionate about creating clean, responsive, and engaging web applications. My core skill set includes HTML, CSS, JavaScript, ReactJS, Redux, Tailwind CSS, and Git/GitHub. I’m a MERN stack (MongoDB, Express.js, ReactJS, Node.js), developer aiming to build scalable and dynamic web applications from front to back. I enjoy transforming ideas into real-world projects, solving problems with code, and creating user experiences that leave a lasting impact.
-✅ Open to remote work, freelance gigs, internships, or junior full-stack/front-end roles
-💬 Let’s connect, collaborate, or build something amazing!
+###I’m a front-end web developer and recent software engineering graduate passionate about creating clean, responsive, and engaging web applications. My core skill set includes HTML, CSS, JavaScript, ReactJS, Redux, Tailwind CSS, and Git/GitHub. I’m a MERN stack (MongoDB, Express.js, ReactJS, Node.js), developer aiming to build scalable and dynamic web applications from front to back. I enjoy transforming ideas into real-world projects, solving problems with code, and creating user experiences that leave a lasting impact.
+
 
 🔭 I’m currently working on MERN stack projects
 
