@@ -1,10 +1,12 @@
-## I’m a front-end web developer and recent software engineering graduate passionate about creating clean, responsive, and engaging web applications. My core skillset includes HTML, CSS, JavaScript, ReactJS, Redux, Tailwind CSS, and Git/GitHub. I’m currently expanding my knowledge into backend development using .NET, aiming to become a well-rounded full-stack developer. I enjoy transforming ideas into real-world projects, solving problems with code, and building user experiences that leave an impact.
-✅ Open to remote work, freelance gigs, internships, or junior front-end roles
+I’m a front-end web developer and recent software engineering graduate passionate about creating clean, responsive, and engaging web applications. My core skill set includes HTML, CSS, JavaScript, ReactJS, Redux, Tailwind CSS, and Git/GitHub. I’m a MERN stack (MongoDB, Express.js, ReactJS, Node.js), developer aiming to build scalable and dynamic web applications from front to back. I enjoy transforming ideas into real-world projects, solving problems with code, and creating user experiences that leave a lasting impact.
+✅ Open to remote work, freelance gigs, internships, or junior full-stack/front-end roles
 💬 Let’s connect, collaborate, or build something amazing!
 
-- 🔭 I’m currently working on my skills
-- 🌱 I’m currently learning .NET backend development
-- 👯 I’m looking to collaborate on Web Projects
+🔭 I’m currently working on MERN stack projects
+
+🌱 I’m currently learning backend development with Node.js & Express.js
+
+👯 I’m looking to collaborate on Web Projects
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nomanchaudhary00) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nomanchaudhary00) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nomanchaudhary1618@gmail.com) 
