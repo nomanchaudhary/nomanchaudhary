@@ -12,12 +12,10 @@ Currently, I’m diving deeper into **AI/ML, NLP, and Agentic AI**, aiming to me
 - Exploring **AI, ML, and NLP concepts** to integrate intelligence into web applications.  
 - Learning **backend development with Node.js & Express.js**.  
 
----
 
 ## 🌐 Connect With Me  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nomanchaudhary00) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nomanchaudhary00) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nomanchaudhary1618@gmail.com)  
 
----
 
 ## 💻 Tech Stack  
 
