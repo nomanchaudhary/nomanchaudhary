@@ -24,12 +24,12 @@ Currently, I’m diving deeper into **AI/ML, NLP, and Agentic AI**, aiming to me
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nomanchaudhary&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=nomanchaudhary&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nomanchaudhary&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nomanchaudhary&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=nomanchaudhary&theme=dark&hide_border=false" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomanchaudhary&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" />
+</div>
 
 
 ## ✍️ Random Dev Quote
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
