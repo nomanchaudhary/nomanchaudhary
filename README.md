@@ -288,16 +288,6 @@ Foundational professional experience in frontend development, working with real-
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nomanchaudhary&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=6" />
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -312,11 +302,7 @@ Foundational professional experience in frontend development, working with real-
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nomanchaudhary/nomanchaudhary/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nomanchaudhary/nomanchaudhary/output/github-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/nomanchaudhary/nomanchaudhary/output/github-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/nomanchaudhary/nomanchaudhary/output/github-contribution-grid-snake.svg" />
 
 </div>
 
