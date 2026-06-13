@@ -24,6 +24,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
+      - name: Create dist directory if needed
+        run: mkdir -p dist
+      
       - name: Push changes
         uses: actions-js/push@master
         with:
