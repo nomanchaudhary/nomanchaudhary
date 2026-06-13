@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=200&section=header&text=Muhammad%20Noman&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20React%20Native%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=16&descColor=c4b5fd" alt="Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,24,30&amp;height=200&amp;section=header&amp;text=Muhammad%20Noman&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20React%20Native%20%7C%20AI%2FML%20Enthusiast&amp;descAlignY=58&amp;descSize=16&amp;descColor=c4b5fd" alt="Header" width="100%" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=820&lines=Full+Stack+MERN+Developer+%7C+1.5%2B+Years+Experience;React.js+%7C+React+Native+%7C+Node.js+%7C+Express+%7C+MongoDB;Shipping+AI-Powered+Production+Applications;Cross-Platform+Web+%26+Mobile+Engineering;Clean+Architecture.+Scalable+Systems.+Real+Impact." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=Full+Stack+MERN+Developer+%7C+1.5%2B+Years+Experience;React.js+%7C+React+Native+%7C+Node.js+%7C+Express+%7C+MongoDB;Shipping+AI-Powered+Production+Applications;Cross-Platform+Web+%26+Mobile+Engineering;Clean+Architecture.+Scalable+Systems.+Real+Impact." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -67,53 +67,53 @@ Core Identity:
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python&amp;theme=dark" />
 </p>
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui&amp;theme=dark" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Context%20API-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&amp;logo=framer&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Context%20API-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" />
 </p>
 
 ### Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react&amp;theme=dark" />
   &nbsp;
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS%20%26%20Android-Cross%20Platform-7C3AED?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&amp;logo=expo&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS%20%26%20Android-Cross%20Platform-7C3AED?style=for-the-badge&amp;logo=apple&amp;logoColor=white" />
 </p>
 
 ### Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&amp;theme=dark" />
   &nbsp;
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/RBAC-Auth%20Control-5B21B6?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&amp;logo=JSON%20web%20tokens&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/RBAC-Auth%20Control-5B21B6?style=for-the-badge&amp;logo=shield&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" />
 </p>
 
 ### Testing
 <p>
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-E2E%20Testing-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unit%20%26%20Integration-Testing-7C3AED?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&amp;logo=vitest&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-E2E%20Testing-2EAD33?style=for-the-badge&amp;logo=playwright&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Unit%20%26%20Integration-Testing-7C3AED?style=for-the-badge&amp;logo=checkmarx&amp;logoColor=white" />
 </p>
 
 ### Cloud, DevOps & Tooling
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&amp;theme=dark" />
 </p>
 
 ### AI / ML & Data
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow&amp;theme=dark" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Huawei%20AI-NAVTTC%20Certified-FF0000?style=for-the-badge&logo=huawei&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-Exploring-6A1B9A?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Huawei%20AI-NAVTTC%20Certified-FF0000?style=for-the-badge&amp;logo=huawei&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-Exploring-6A1B9A?style=for-the-badge&amp;logo=openai&amp;logoColor=white" />
 </p>
 
 ---
@@ -320,11 +320,11 @@ Built foundational frontend experience contributing to real-world client project
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nomanchaudhary&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D0D0D&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=nomanchaudhary&amp;show_icons=true&amp;theme=midnight-purple&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0D0D0D&amp;title_color=8B5CF6&amp;icon_color=7C3AED&amp;text_color=C4B5FD" height="170" alt="GitHub Stats" />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=nomanchaudhary&theme=midnight-purple&hide_border=true&background=0D0D0D&ring=8B5CF6&fire=7C3AED&currStreakLabel=C4B5FD" height="170" alt="Streak Stats" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=nomanchaudhary&amp;theme=midnight-purple&amp;hide_border=true&amp;background=0D0D0D&amp;ring=8B5CF6&amp;fire=7C3AED&amp;currStreakLabel=C4B5FD" height="170" alt="Streak Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomanchaudhary&theme=midnight-purple&hide_border=true&layout=compact&bg_color=0D0D0D&title_color=8B5CF6&text_color=C4B5FD&langs_count=8" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomanchaudhary&amp;theme=midnight-purple&amp;hide_border=true&amp;layout=compact&amp;bg_color=0D0D0D&amp;title_color=8B5CF6&amp;text_color=C4B5FD&amp;langs_count=8" height="170" alt="Top Languages" />
 
 </div>
 
@@ -334,7 +334,7 @@ Built foundational frontend experience contributing to real-world client project
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nomanchaudhary&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=nomanchaudhary&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=6&amp;margin-h=6" alt="GitHub Trophies" />
 
 </div>
 
@@ -344,7 +344,7 @@ Built foundational frontend experience contributing to real-world client project
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nomanchaudhary&bg_color=0D0D0D&color=8B5CF6&line=7C3AED&point=C4B5FD&area=true&hide_border=true&area_color=4C1D95" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nomanchaudhary&amp;bg_color=0D0D0D&amp;color=8B5CF6&amp;line=7C3AED&amp;point=C4B5FD&amp;area=true&amp;hide_border=true&amp;area_color=4C1D95" width="100%" alt="Contribution Graph" />
 
 </div>
 
@@ -419,6 +419,6 @@ Open To:
 
 *"Engineering is not about writing code — it is about solving problems with precision, empathy, and craft."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,24,30&amp;height=120&amp;section=footer&amp;animation=fadeIn" width="100%" alt="Footer" />
 
 </div>
