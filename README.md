@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Muhammad%20Noman&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Muhammad%20Noman&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlign=50" width="100%" />
 
 </div>
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=500&height=70&lines=Full+Stack+Developer;MERN+%7C+React+Native;AI%2FML+Explorer" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&height=100&lines=Full+Stack+Developer+%7C+Web+%26+Mobile;MERN+%7C+React+Native+%7C+TypeScript;AI%2FML+Enthusiast+%7C+Open+to+Opportunities" alt="Typing SVG" />
 
 </div>
 
@@ -49,7 +49,7 @@ location    : Lahore, Punjab, Pakistan
 education   : Bachelor of Software Engineering — Islamia University of Bahawalpur (2020–2024)
 ```
 
-Full Stack Developer with **1.5+ years** of professional experience shipping production-ready web and mobile applications. Specialising in **React.js**, **React Native**, **Node.js**, **Express.js**, and modern full-stack architectures.
+Full Stack Developer with **1.5+ years** of professional experience shipping production-ready web and mobile applications. Specialising in **React.js**, **React Native**, **Node.js**, **Express.js**, and **MongoDB**.
 
 I operate at the intersection of frontend craftsmanship and backend reliability: designing RESTful APIs, modelling data schemas, implementing secure authentication, and optimising state management.
 
@@ -63,37 +63,20 @@ Beyond core engineering, I am actively expanding into **AI, Machine Learning, an
 
 <div align="center">
 
-**Languages**
+| **Languages** | **Frontend** |
+|---|---|
+| ![Languages](https://skillicons.dev/icons?i=js,ts,html,css&theme=dark) | ![Frontend](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui&theme=dark) |
+| JavaScript · TypeScript · HTML5 · CSS3 | React · Next.js · Redux · Tailwind · Material UI |
 
-[![Languages](https://skillicons.dev/icons?i=js,ts,html,css&theme=dark)](https://skillicons.dev)
+| **Mobile** | **Backend & Databases** |
+|---|---|
+| ![Mobile](https://skillicons.dev/icons?i=react,androidstudio&theme=dark) | ![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark) |
+| React Native · Expo · Cross-Platform iOS & Android | Node.js · Express · MongoDB · Mongoose |
 
-**Frontend**
-
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui&theme=dark)](https://skillicons.dev)
-
-**Mobile**
-
-[![Mobile](https://skillicons.dev/icons?i=react,androidstudio&theme=dark)](https://skillicons.dev)
-
-`React Native` &nbsp; `Expo` &nbsp; `Cross-Platform iOS & Android`
-
-**Backend & Databases**
-
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark)](https://skillicons.dev)
-
-`RESTful APIs` &nbsp; `JWT Authentication` &nbsp; `RBAC` &nbsp; `Mongoose`
-
-**Testing**
-
-[![Testing](https://skillicons.dev/icons?i=vitest&theme=dark)](https://skillicons.dev)
-
-`Vitest` &nbsp; `Unit Testing` &nbsp; `Integration Testing` &nbsp; `Playwright (E2E)`
-
-**Tools & Platforms**
-
-[![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark)](https://skillicons.dev)
-
-`Framer Motion` &nbsp; `Redux Toolkit` &nbsp; `Context API` &nbsp; `Axios`
+| **Testing** | **Tools & Platforms** |
+|---|---|
+| ![Testing](https://skillicons.dev/icons?i=vitest&theme=dark) | ![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark) |
+| Vitest · Unit Testing · Integration Testing · Playwright E2E | Git · GitHub · Postman · VS Code · Framer Motion · Axios |
 
 </div>
 
@@ -126,7 +109,7 @@ Beyond core engineering, I am actively expanding into **AI, Machine Learning, an
 | **Architecture** | Component-driven, responsive frontend integrated with AI-powered backend services |
 | **Impact** | Automates customer journey from discovery to conversion via intelligent product recommendations |
 
-Built responsive, component-driven interfaces for an AI-powered conversational sales platform. Engineered dynamic UI flows that interact with AI services to surface contextual product recommendations and streamline the purchasing journey.
+Built responsive, component-driven interfaces for an AI-powered conversational sales platform. Engineered dynamic UI flows that interact with AI services to surface contextual product recommendations.
 
 </details>
 
@@ -146,7 +129,7 @@ Built responsive, component-driven interfaces for an AI-powered conversational s
 | **Focus** | Performance optimisation · Smooth UX · API integration |
 | **Architecture** | Expo-based cross-platform architecture with TypeScript for type-safe development |
 
-Developed cross-platform mobile features enabling users to connect with professional chefs through live cooking sessions, subscribe to content creators, and discover curated recipes. Delivered a fluid, high-performance experience optimised for both iOS and Android platforms.
+Developed cross-platform mobile features enabling users to connect with professional chefs through live cooking sessions, subscribe to content creators, and discover curated recipes. Delivered a fluid and responsive mobile experience.
 
 </details>
 
@@ -166,7 +149,7 @@ Developed cross-platform mobile features enabling users to connect with professi
 | **Intelligence** | Computer vision for automated member identification and entry management |
 | **Impact** | Streamlines gym operations through automated access control and membership insights |
 
-Implemented access control and analytics features for a smart gym management application. Integrated computer vision pipelines for automated entry tracking and leveraged behaviour analytics to provide actionable membership insights.
+Implemented access control and analytics features for a smart gym management application. Integrated computer vision pipelines for automated entry tracking and leveraged behaviour analytics to provide actionable insights.
 
 </details>
 
@@ -274,15 +257,15 @@ Foundational professional experience in frontend development, working with real-
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nomanchaudhary&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=a78bfa" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nomanchaudhary&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=a78bfa" alt="GitHub Stats" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomanchaudhary&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomanchaudhary&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nomanchaudhary&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=7c3aed&ring=a78bfa&fire=c4b5fd&currStreakLabel=a78bfa" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nomanchaudhary&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=7c3aed&ring=a78bfa&fire=c4b5fd&currStreakLabel=a78bfa" alt="GitHub Streak" width="100%" />
 
 </div>
 
@@ -292,7 +275,7 @@ Foundational professional experience in frontend development, working with real-
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nomanchaudhary&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=4c1d95&hide_border=true" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nomanchaudhary&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=4c1d95&hide_border=true" width="100%" alt="Contribution Graph" />
 
 </div>
 
