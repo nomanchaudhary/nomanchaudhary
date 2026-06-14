@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Muhammad%20Noman&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Muhammad%20Noman&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20React%20Native%20%7C%20Node.js&descAlignY=51&descAlign=62" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&height=100&lines=Full+Stack+Developer+%7C+Web+%26+Mobile;MERN+%7C+React+Native+%7C+TypeScript;AI%2FML+Enthusiast+%7C+Open+to+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&height=100&lines=Full+Stack+Developer;React+%7C+React+Native+%7C+Node.js;Building+AI-Powered+Applications" alt="Typing SVG" />
 
 </div>
 
@@ -49,7 +49,7 @@ location    : Lahore, Punjab, Pakistan
 education   : Bachelor of Software Engineering — Islamia University of Bahawalpur (2020–2024)
 ```
 
-Full Stack Developer with **1.5+ years** of professional experience shipping production-ready web and mobile applications. Specialising in **React.js**, **React Native**, **Node.js**, **Express.js**, and **MongoDB**.
+Full Stack Developer with **1.5+ years** of professional experience shipping production-ready web and mobile applications. Specialising in **React.js**, **React Native**, **Node.js**, **Express.js**, MongoDB, and modern tooling.
 
 I operate at the intersection of frontend craftsmanship and backend reliability: designing RESTful APIs, modelling data schemas, implementing secure authentication, and optimising state management.
 
@@ -129,7 +129,7 @@ Built responsive, component-driven interfaces for an AI-powered conversational s
 | **Focus** | Performance optimisation · Smooth UX · API integration |
 | **Architecture** | Expo-based cross-platform architecture with TypeScript for type-safe development |
 
-Developed cross-platform mobile features enabling users to connect with professional chefs through live cooking sessions, subscribe to content creators, and discover curated recipes. Delivered a fluid and responsive mobile experience.
+Developed cross-platform mobile features enabling users to connect with professional chefs through live cooking sessions, subscribe to content creators, and discover curated recipes. Delivered a fluid, responsive experience optimised for performance.
 
 </details>
 
@@ -257,15 +257,15 @@ Foundational professional experience in frontend development, working with real-
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nomanchaudhary&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=a78bfa" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nomanchaudhary&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=a78bfa" alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomanchaudhary&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomanchaudhary&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nomanchaudhary&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=7c3aed&ring=a78bfa&fire=c4b5fd&currStreakLabel=a78bfa" alt="GitHub Streak" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nomanchaudhary&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=7c3aed&ring=a78bfa&fire=c4b5fd&currStreakLabel=a78bfa" alt="GitHub Streak" width="100%"/>
 
 </div>
 
@@ -275,7 +275,21 @@ Foundational professional experience in frontend development, working with real-
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nomanchaudhary&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=4c1d95&hide_border=true" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nomanchaudhary&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=4c1d95&hide_border=true" alt="Contribution Graph" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnav7777/arnav7777/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arnav7777/arnav7777/output/github-snake-light.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/arnav7777/arnav7777/output/github-snake-light.svg" width="100%">
+</picture>
 
 </div>
 
