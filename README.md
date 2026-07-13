@@ -72,6 +72,26 @@ JavaScript · TypeScript · HTML5 · CSS3 · React · Next.js · Redux · Tailwi
 ## 🚀 Featured Projects
 
 <details>
+<summary><b>Zanderio — AI-Powered E-Commerce Platform</b></summary>
+<br/>
+
+> An intelligent conversational commerce platform that automates customer interactions, product recommendations, and end-to-end sales conversions through AI-driven dialogue flows.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | React.js · Material UI · RESTful APIs |
+| **Type** | AI-Powered Web Application |
+| **Focus** | Conversational Sales Automation · Product Discovery · UX Optimisation |
+| **Architecture** | Component-driven, responsive frontend integrated with AI-powered backend services |
+| **Impact** | Automates customer journey from discovery to conversion via intelligent product recommendations |
+
+Built responsive, component-driven interfaces for an AI-powered conversational sales platform. Engineered dynamic UI flows that interact with AI services to surface contextual product recommendations.
+
+</details>
+
+---
+
+<details>
 <summary><b>Cooksbook — Live Cooking Mobile Application</b></summary>
 <br/>
 
@@ -195,6 +215,14 @@ Foundational professional experience in frontend development, working with real-
 ![Udemy](https://img.shields.io/badge/Learn%20React%20JS%20(Urdu%2FHindi)-Practically-ec5252?style=for-the-badge&logo=udemy&logoColor=white)
 
 `Learn React JS in Urdu/Hindi Practically` — Mar 2025
+
+---
+
+**Huawei · NAVTTC**
+
+![Huawei](https://img.shields.io/badge/Huawei%20AI%20Course-NAVTTC-cf0a2c?style=for-the-badge&logo=huawei&logoColor=white)
+
+`Huawei AI Course` — Oct 2025
 
 </div>
 
