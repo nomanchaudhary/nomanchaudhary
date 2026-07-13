@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&height=100&lines=Full+Stack+Developer;React+%7C+React+Native+%7C+Node.js;Building+AI-Powered+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&height=100&lines=Full+Stack+Developer;React+%7C+React+Native+%7C+Node.js" alt="Typing SVG" />
 
 </div>
 
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammadnomandev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nomanchaudhary00)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nomanchaudhary1618@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nomanchaudhary)
@@ -53,67 +53,23 @@ Full Stack Developer with **1.5+ years** of professional experience shipping pro
 
 I operate at the intersection of frontend craftsmanship and backend reliability: designing RESTful APIs, modelling data schemas, implementing secure authentication, and optimising state management.
 
-Beyond core engineering, I am actively expanding into **AI, Machine Learning, and NLP**, exploring how intelligent, data-driven systems can be embedded natively into modern full-stack applications.
-
-**Open to:** Full-time roles · Contract projects · Open source collaboration · AI/ML-integrated product work
+**Open to:** Full-time roles · Contract projects · Open source collaboration
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Skills & Languages
 
 <div align="center">
 
-| **Languages** | **Frontend** |
-|---|---|
-| ![Languages](https://skillicons.dev/icons?i=js,ts,html,css&theme=dark) | ![Frontend](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui&theme=dark) |
-| JavaScript · TypeScript · HTML5 · CSS3 | React · Next.js · Redux · Tailwind · Material UI |
+![Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,materialui,react,androidstudio,nodejs,express,mongodb,vitest,git,github,postman,vscode&theme=dark)
 
-| **Mobile** | **Backend & Databases** |
-|---|---|
-| ![Mobile](https://skillicons.dev/icons?i=react,androidstudio&theme=dark) | ![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark) |
-| React Native · Expo · Cross-Platform iOS & Android | Node.js · Express · MongoDB · Mongoose |
-
-| **Testing** | **Tools & Platforms** |
-|---|---|
-| ![Testing](https://skillicons.dev/icons?i=vitest&theme=dark) | ![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark) |
-| Vitest · Unit Testing · Integration Testing · Playwright E2E | Git · GitHub · Postman · VS Code · Framer Motion · Axios |
+JavaScript · TypeScript · HTML5 · CSS3 · React · Next.js · Redux · Tailwind · Material UI · React Native · Expo · Node.js · Express · MongoDB · Mongoose · Vitest · Playwright E2E · Git · GitHub · Postman · VS Code · Framer Motion · Axios
 
 </div>
 
 ---
 
-## 🤖 AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| AI-Powered Product Integration | ★★★★☆ | Built and shipped AI-powered conversational commerce features in production (Zanderio platform) |
-| Computer Vision Integration | ★★★☆☆ | Integrated behaviour analytics & computer vision for gym access control (Guest Pass app) |
-| NLP & Intelligent Systems | ★★★☆☆ (Expanding) | Actively exploring NLP pipelines and ML workflows for embedding smart features into web apps |
-| Huawei AI Foundations | ★★★☆☆ | Certified via NAVTTC Huawei AI Course (Oct 2025) |
-
----
-
 ## 🚀 Featured Projects
-
-<details>
-<summary><b>Zanderio — AI-Powered E-Commerce Platform</b></summary>
-<br/>
-
-> An intelligent conversational commerce platform that automates customer interactions, product recommendations, and end-to-end sales conversions through AI-driven dialogue flows.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | React.js · Material UI · RESTful APIs |
-| **Type** | AI-Powered Web Application |
-| **Focus** | Conversational Sales Automation · Product Discovery · UX Optimisation |
-| **Architecture** | Component-driven, responsive frontend integrated with AI-powered backend services |
-| **Impact** | Automates customer journey from discovery to conversion via intelligent product recommendations |
-
-Built responsive, component-driven interfaces for an AI-powered conversational sales platform. Engineered dynamic UI flows that interact with AI services to surface contextual product recommendations.
-
-</details>
-
----
 
 <details>
 <summary><b>Cooksbook — Live Cooking Mobile Application</b></summary>
@@ -139,17 +95,16 @@ Developed cross-platform mobile features enabling users to connect with professi
 <summary><b>Guest Pass — Gym Management & Access Control App</b></summary>
 <br/>
 
-> A smart gym management mobile application leveraging computer vision and behaviour analytics to automate entry tracking, access control, and membership conversion monitoring.
+> A smart gym management mobile application automating entry tracking, access control, and membership conversion monitoring.
 
 | Attribute | Detail |
 |---|---|
 | **Stack** | React Native · Expo · TypeScript |
 | **Platform** | iOS & Android (Cross-Platform) |
-| **Features** | Access control · Entry tracking · Membership analytics · Behaviour analytics integration |
-| **Intelligence** | Computer vision for automated member identification and entry management |
+| **Features** | Access control · Entry tracking · Membership analytics |
 | **Impact** | Streamlines gym operations through automated access control and membership insights |
 
-Implemented access control and analytics features for a smart gym management application. Integrated computer vision pipelines for automated entry tracking and leveraged behaviour analytics to provide actionable insights.
+Implemented access control and analytics features for a smart gym management application, providing actionable membership insights.
 
 </details>
 
@@ -241,27 +196,11 @@ Foundational professional experience in frontend development, working with real-
 
 `Learn React JS in Urdu/Hindi Practically` — Mar 2025
 
----
-
-**Huawei · NAVTTC**
-
-![Huawei](https://img.shields.io/badge/Huawei%20AI%20Course-NAVTTC-cf0a2c?style=for-the-badge&logo=huawei&logoColor=white)
-
-`Huawei AI Course` — Oct 2025
-
 </div>
 
 ---
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nomanchaudhary&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=a78bfa" alt="GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomanchaudhary&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa" alt="Top Languages"/>
-
-</div>
 
 <div align="center">
 
@@ -299,24 +238,20 @@ Foundational professional experience in frontend development, working with real-
 
 ```yaml
 learning:
-  - AI/ML integration patterns for full-stack web applications
-  - NLP workflows for intelligent product features
   - Advanced TypeScript patterns and performance optimisation
+  - Scalable RESTful API architectures with optimised MongoDB schemas
 
 building:
   - Production-grade MERN + React Native applications
-  - AI-powered product features (conversational UI, smart recommendations)
   - Scalable RESTful API architectures with optimised MongoDB schemas
 
 exploring:
-  - Machine Learning pipelines for web integration
   - Playwright end-to-end testing strategies
   - Advanced animation and micro-interaction design with Framer Motion
 
 open_to:
   - Full-time Full Stack / Mobile Developer roles
   - Freelance or contract product engineering projects
-  - AI/ML-integrated application development
   - Open source collaboration
 ```
 
