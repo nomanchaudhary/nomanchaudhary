@@ -60,52 +60,38 @@ I'm a **Full Stack Web & Mobile Developer** who turns ideas into production-read
 
 <div align="center">
 
-**Frontend**
+<table>
+<tr>
+<td align="center" width="140"><b>🎨 Frontend</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,materialui,html,css&perline=9" alt="Frontend"/></td>
+</tr>
+<tr>
+<td align="center"><b>📱 Mobile</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react,androidstudio,apple&perline=9" alt="Mobile"/><br/><sub>React Native · Expo · Ionic · iOS & Android</sub></td>
+</tr>
+<tr>
+<td align="center"><b>⚙️ Backend</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=9" alt="Backend"/><br/><sub>REST APIs · Mongoose · JWT Auth · RBAC</sub></td>
+</tr>
+<tr>
+<td align="center"><b>🤖 AI / ML</b></td>
+<td align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-7b2ff7?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-5b21d6?style=for-the-badge&logo=openai&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-3b0f8c?style=for-the-badge&logo=huggingface&logoColor=white)
 
-**Mobile**
-
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-7b2ff7?style=flat-square&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT%20%2F%20RBAC-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-**AI / ML**
-
-![RAG](https://img.shields.io/badge/RAG-7b2ff7?style=flat-square&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-5b21d6?style=flat-square&logo=huggingface&logoColor=white)
-
-**Testing & Tools**
-
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+</td>
+</tr>
+<tr>
+<td align="center"><b>🧪 Testing</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=jest,vitest&perline=9" alt="Testing"/><br/><sub>Playwright · Integration Testing</sub></td>
+</tr>
+<tr>
+<td align="center"><b>🧰 Tools</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,vercel&perline=9" alt="Tools"/><br/><sub>Swagger · Framer Motion · Axios</sub></td>
+</tr>
+</table>
 
 </div>
 
@@ -224,18 +210,11 @@ Milestone-based payment flows built with secure, real-world payment logic.
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nomanchaudhary&theme=tokyonight" alt="GitHub Stats"/>
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nomanchaudhary&theme=tokyonight" alt="Top Languages"/>
-
 <img width="100%" src="https://streak-stats.demolab.com/?user=nomanchaudhary&hide_border=true&background=0d0a1a&stroke=7b2ff7&ring=8b3dff&fire=a66bff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a66bff&sideLabels=e9e3ff&dates=b9a8e6" alt="GitHub Streak"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nomanchaudhary&bg_color=0d0a1a&color=a66bff&line=7b2ff7&point=ffffff&area=true&area_color=4c1d95&hide_border=true" alt="Contribution Graph"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=nomanchaudhary&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
 
 </div>
 
