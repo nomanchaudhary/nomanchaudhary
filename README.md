@@ -1,69 +1,111 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Muhammad%20Noman&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20React%20Native%20%7C%20Node.js&descAlignY=51&descAlign=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9b4dff,50:6d28d9,100:3b0f8c&height=220&section=header&text=Muhammad%20Noman&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=From%20Vision%20to%20Launch.%20I%20Build%20What%E2%80%99s%20Next.&descSize=18&descAlignY=56" width="100%"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&height=100&lines=Full+Stack+Developer;React+%7C+React+Native+%7C+Node.js" alt="Typing SVG" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2800&pause=900&color=8B3DFF&center=true&vCenter=true&width=720&height=60&lines=Full+Stack+MERN+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+React+Native;Node.js+%E2%80%A2+Express+%E2%80%A2+MongoDB;Building+AI+%26+RAG-powered+products;Helping+startups+go+from+idea+to+launch" alt="Typing SVG" />
 
 <br/>
 
-<div align="center">
+[![Portfolio](https://img.shields.io/badge/Portfolio-muhammadnoman.dev-7b2ff7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muhammadnoman.dev/)
+[![Book a Call](https://img.shields.io/badge/Book%20a%2030--min%20Call-Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/nomanthedev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nomanchaudhary00)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nomanchaudhary1618@gmail.com)
 
-![Education](https://img.shields.io/badge/BSc%20Software%20Engineering-Islamia%20University%20Bahawalpur-6366f1?style=flat-square&labelColor=1e1b4b)
-![Location](https://img.shields.io/badge/📍%20Lahore%2C%20Punjab-Pakistan-7c3aed?style=flat-square&labelColor=1e1b4b)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square&labelColor=1e1b4b)
-
-</div>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammadnomandev.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nomanchaudhary00)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nomanchaudhary1618@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nomanchaudhary)
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=nomanchaudhary&color=7c3aed&style=flat-square&label=Profile+Views)
-![GitHub Followers](https://img.shields.io/github/followers/nomanchaudhary?style=flat-square&color=6366f1&labelColor=1e1b4b&label=Followers)
+![Status](https://img.shields.io/badge/Status-Open%20for%20Projects-22c55e?style=flat-square&labelColor=1b0b3a)
+![Location](https://img.shields.io/badge/Based%20in-Lahore%2C%20Pakistan-7b2ff7?style=flat-square&labelColor=1b0b3a)
+![Profile Views](https://komarev.com/ghpvc/?username=nomanchaudhary&color=7b2ff7&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/nomanchaudhary?style=flat-square&color=7b2ff7&labelColor=1b0b3a&label=Followers&logo=github)
+![Stars](https://img.shields.io/github/stars/nomanchaudhary?style=flat-square&color=7b2ff7&labelColor=1b0b3a&label=Stars&logo=github)
 
 </div>
 
 ---
 
-## 🧠 About
+<table>
+<tr>
+<td width="58%" valign="top">
 
-```yaml
-name        : Muhammad Noman
-role        : Full Stack Developer  (Web & Mobile)
-stack       : MERN · React Native · TypeScript · Node.js
-experience  : 1.5+ years of professional product engineering
-location    : Lahore, Punjab, Pakistan
-education   : Bachelor of Software Engineering — Islamia University of Bahawalpur (2020–2024)
-```
+## 👋 About Me
 
-Full Stack Developer with **1.5+ years** of professional experience shipping production-ready web and mobile applications. Specialising in **React.js**, **React Native**, **Node.js**, **Express.js**, MongoDB, and modern tooling.
+I'm a **Full Stack Web & Mobile Developer** who turns ideas into production-ready products. I build with the **MERN stack** and **React Native**, and I'm bringing **AI, NLP and RAG** into modern apps to solve real problems.
 
-I operate at the intersection of frontend craftsmanship and backend reliability: designing RESTful APIs, modelling data schemas, implementing secure authentication, and optimising state management.
+- 🏢 Full Stack Developer (Web & Mobile) at **Lab 23 Technology**
+- 🧩 I own features end to end: UI/UX → REST APIs → database → deployment
+- 🤖 Exploring **LLMs, RAG pipelines** and AI-powered user experiences
+- 🎓 BS Software Engineering, **Islamia University of Bahawalpur**
+- 💬 Ask me about **React, React Native, Node.js, MongoDB, API design**
+- ⚡ Fun fact: University Sports Gala winner 🥇
 
-**Open to:** Full-time roles · Contract projects · Open source collaboration
+</td>
+<td width="42%" valign="top" align="center">
+
+### 📊 At a Glance
+
+| | |
+|:--:|:--:|
+| **20+** | Projects Completed |
+| **15+** | Clients Globally |
+| **2.5+** | Years Experience |
+| **~40%** | API Load Reduced |
+
+[![Book a call](https://img.shields.io/badge/📅%20Let's%20build%20your%20idea-7b2ff7?style=for-the-badge)](https://calendly.com/nomanthedev)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚙️ Skills & Languages
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,materialui,react,androidstudio,nodejs,express,mongodb,vitest,git,github,postman,vscode&theme=dark)
+**Frontend**
 
-JavaScript · TypeScript · HTML5 · CSS3 · React · Next.js · Redux · Tailwind · Material UI · React Native · Expo · Node.js · Express · MongoDB · Mongoose · Vitest · Playwright E2E · Git · GitHub · Postman · VS Code · Framer Motion · Axios
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-7b2ff7?style=flat-square&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT%20%2F%20RBAC-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**AI / ML**
+
+![RAG](https://img.shields.io/badge/RAG-7b2ff7?style=flat-square&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-5b21d6?style=flat-square&logo=huggingface&logoColor=white)
+
+**Testing & Tools**
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -71,138 +113,103 @@ JavaScript · TypeScript · HTML5 · CSS3 · React · Next.js · Redux · Tailwi
 
 ## 🚀 Featured Projects
 
-<details>
-<summary><b>Zanderio — AI-Powered E-Commerce Platform</b></summary>
-<br/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> An intelligent conversational commerce platform that automates customer interactions, product recommendations, and end-to-end sales conversions through AI-driven dialogue flows.
+### 🛒 Zanderio
+**AI-Powered Conversational Commerce**
 
-| Attribute | Detail |
-|---|---|
-| **Stack** | React.js · Material UI · RESTful APIs |
-| **Type** | AI-Powered Web Application |
-| **Focus** | Conversational Sales Automation · Product Discovery · UX Optimisation |
-| **Architecture** | Component-driven, responsive frontend integrated with AI-powered backend services |
-| **Impact** | Automates customer journey from discovery to conversion via intelligent product recommendations |
+Automates customer conversations, product recommendations and sales conversion through AI-driven dialogue flows.
 
-Built responsive, component-driven interfaces for an AI-powered conversational sales platform. Engineered dynamic UI flows that interact with AI services to surface contextual product recommendations.
+`React.js` `Material UI` `REST APIs` `AI`
 
-</details>
+</td>
+<td width="50%" valign="top">
 
----
+### 🏋️ Guest Pass
+**Gym Guest Entry & Analytics App**
 
-<details>
-<summary><b>Cooksbook — Live Cooking Mobile Application</b></summary>
-<br/>
+QR check-ins and conversion analytics that digitise gym guest entry and turn visitors into members.
 
-> A cross-platform mobile application enabling live cooking sessions, chef subscriptions, and recipe discovery — built for iOS and Android with a seamless, high-performance user experience.
+`React Native` `Expo` `TypeScript` `QR Engine`
 
-| Attribute | Detail |
-|---|---|
-| **Stack** | React Native · Expo · TypeScript |
-| **Platform** | iOS & Android (Cross-Platform) |
-| **Features** | Live cooking sessions · Chef subscriptions · Recipe discovery · User engagement flows |
-| **Focus** | Performance optimisation · Smooth UX · API integration |
-| **Architecture** | Expo-based cross-platform architecture with TypeScript for type-safe development |
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Developed cross-platform mobile features enabling users to connect with professional chefs through live cooking sessions, subscribe to content creators, and discover curated recipes. Delivered a fluid, responsive experience optimised for performance.
+### 👨‍🍳 Cooksbook
+**Live Cooking Mobile App**
 
-</details>
+Live cooking sessions, chef subscriptions and recipe discovery on iOS & Android.
 
----
+`React Native` `Expo` `TypeScript`
 
-<details>
-<summary><b>Guest Pass — Gym Management & Access Control App</b></summary>
-<br/>
+</td>
+<td width="50%" valign="top">
 
-> A smart gym management mobile application automating entry tracking, access control, and membership conversion monitoring.
+### 💳 Milestone Payment App (MPA)
+**Secure Milestone Payments**
 
-| Attribute | Detail |
-|---|---|
-| **Stack** | React Native · Expo · TypeScript |
-| **Platform** | iOS & Android (Cross-Platform) |
-| **Features** | Access control · Entry tracking · Membership analytics |
-| **Impact** | Streamlines gym operations through automated access control and membership insights |
+Milestone-based payment flows built with secure, real-world payment logic.
 
-Implemented access control and analytics features for a smart gym management application, providing actionable membership insights.
+`MERN` `React Native` `JWT` `RBAC`
 
-</details>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**Brands & products I've built for:** Lab 23 Technology · Zanderio · Cooksbook · Swaysive · Guest Pass · Rivendell Tech · Lahoriya · LYNX Systems · Homezze · Loyalix · Ayra AI · RTI
+
+[![See all projects](https://img.shields.io/badge/See%20all%20projects-muhammadnoman.dev-7b2ff7?style=for-the-badge)](https://muhammadnoman.dev/)
+
+</div>
 
 ---
 
 ## 💼 Experience
 
-<table>
-<tr>
-<td width="50%">
+<details open>
+<summary><b>Full Stack Developer (Web & Mobile) · Lab 23 Technology</b> &nbsp;·&nbsp; <code>Jan 2026 – Present</code></summary>
+<br/>
 
-### Full Stack Developer — Web & Mobile
-**Lab 23 Technology** · Lahore, Pakistan
-`Jul 2025 – Present`
+- Own complete web & mobile apps, from UI/UX design to backend APIs and production deployment
+- Build scalable web apps with **React.js** and cross-platform mobile apps with **React Native**
+- Design secure REST APIs with **Node.js, Express & MongoDB**, plus **JWT auth and RBAC**
+- Cut API load by **~40%** through Redux Toolkit optimisation and architectural refactoring
 
-Transitioned from frontend-focused development to full-stack ownership, delivering complete web and mobile applications from UI/UX design through to backend APIs and production deployment.
+</details>
 
-- Engineered end-to-end features across React.js, React Native, Node.js, Express.js, and MongoDB in multiple production deployments
-- Reduced API load by ~40% through optimised Redux Toolkit state management and full architectural refactoring
-- Implemented JWT-based authentication, RBAC, and scalable RESTful APIs with optimised MongoDB schemas
-- Collaborated with cross-functional teams in Agile/Scrum sprints across design, QA, and product
+<details>
+<summary><b>Frontend Developer · Lab 23 Technology</b> &nbsp;·&nbsp; <code>Jul 2025 – Dec 2025</code></summary>
+<br/>
 
-`React.js` `React Native` `Node.js` `Express.js` `MongoDB` `Redux Toolkit` `JWT` `RBAC` `Git`
+- Built responsive web & mobile apps with **React.js and Next.js** using component-based architecture
+- Designed consistent UI with **Tailwind CSS and Material UI**
+- Integrated backend services and contributed to API improvements on the MERN stack
 
-</td>
-<td width="50%">
+</details>
 
-### Frontend Developer — React.js
-**Techons** · Lahore, Pakistan
-`Nov 2024 – Feb 2025`
+<details>
+<summary><b>Frontend Developer (React.js) · Techons</b> &nbsp;·&nbsp; <code>Nov 2024 – Feb 2025</code></summary>
+<br/>
 
-Built responsive, cross-browser web applications with a focus on scalable state management, smooth UI interactions, and dynamic API-driven data rendering.
+- Built cross-browser apps with **React.js, TypeScript** and modern JavaScript
+- Managed state with **Redux Toolkit and Context API**; added micro-interactions with **Framer Motion**
 
-- Built cross-browser applications using React.js, TypeScript, and modern JavaScript (ES6+)
-- Implemented Redux Toolkit and Context API for centralised state management across complex component trees
-- Designed UI animations and micro-interactions using Framer Motion, improving engagement and responsiveness
-- Integrated RESTful APIs via Axios and Fetch for dynamic data rendering and real-time user interactions
+</details>
 
-`React.js` `TypeScript` `Redux Toolkit` `Context API` `Framer Motion` `Axios` `Tailwind CSS`
+<details>
+<summary><b>Junior Frontend Developer · CodeLab IT Solutions</b> &nbsp;·&nbsp; <code>Jan 2021 – Aug 2021</code></summary>
+<br/>
 
-</td>
-</tr>
-</table>
+- Built responsive pages and reusable components with **HTML, CSS, JavaScript and React.js**
+- Learned code reviews, REST API integration and Git workflows alongside senior developers
 
-<table>
-<tr>
-<td width="100%">
-
-### Junior Frontend Developer
-**CodeLab IT Solutions** · Bahawalpur, Pakistan
-`Jan 2021 – Aug 2021`
-
-Foundational professional experience in frontend development, working with real-world client projects and building core skills in component-based architecture, API integration, and collaborative engineering.
-
-- Developed responsive user interfaces using HTML5, CSS3, JavaScript, and React.js for client-facing web applications
-- Participated in peer code reviews with senior developers to improve code quality, maintainability, and cross-browser compatibility
-- Used Git and GitHub for version control, branch management, and collaborative development workflows
-
-`HTML5` `CSS3` `JavaScript` `React.js` `Git` `GitHub` `REST APIs`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| 🥇 University Sports Gala Winner | Winner — The Islamia University of Bahawalpur |
-| 📉 40% API Load Reduction | Achieved through Redux Toolkit optimisation and full architectural refactoring at Lab 23 Technology |
-| 🚀 Production Deployments | Shipped multiple end-to-end web and mobile applications to production |
-| 📱 Cross-Platform Mobile Delivery | Built and deployed iOS & Android apps using React Native and Expo |
-
-</div>
+</details>
 
 ---
 
@@ -210,53 +217,25 @@ Foundational professional experience in frontend development, working with real-
 
 <div align="center">
 
-**Udemy**
-
-![Udemy](https://img.shields.io/badge/Learn%20React%20JS%20(Urdu%2FHindi)-Practically-ec5252?style=for-the-badge&logo=udemy&logoColor=white)
-
-`Learn React JS in Urdu/Hindi Practically` — Mar 2025
-
----
-
-**Huawei · NAVTTC**
-
-![Huawei](https://img.shields.io/badge/Huawei%20AI%20Course-NAVTTC-cf0a2c?style=for-the-badge&logo=huawei&logoColor=white)
-
-`Huawei AI Course` — Oct 2025
+![Huawei AI](https://img.shields.io/badge/Huawei%20AI%20Course-NAVTTC%20·%20Oct%202025-CF0A2C?style=for-the-badge&logo=huawei&logoColor=white)
+![Udemy React](https://img.shields.io/badge/Learn%20React%20JS-Udemy%20·%20Mar%202025-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nomanchaudhary&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=7c3aed&ring=a78bfa&fire=c4b5fd&currStreakLabel=a78bfa" alt="GitHub Streak" width="100%"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nomanchaudhary&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0a1a&title_color=a66bff&icon_color=8b3dff&text_color=e9e3ff&rank_icon=github" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomanchaudhary&layout=compact&langs_count=8&hide_border=true&bg_color=0d0a1a&title_color=a66bff&text_color=e9e3ff" alt="Top Languages"/>
 
-</div>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nomanchaudhary&hide_border=true&background=0d0a1a&stroke=7b2ff7&ring=8b3dff&fire=a66bff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a66bff&sideLabels=e9e3ff&dates=b9a8e6" alt="GitHub Streak"/>
 
----
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nomanchaudhary&bg_color=0d0a1a&color=a66bff&line=7b2ff7&point=ffffff&area=true&area_color=4c1d95&hide_border=true" alt="Contribution Graph"/>
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nomanchaudhary&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=4c1d95&hide_border=true" alt="Contribution Graph" width="100%"/>
-
-</div>
-
----
-
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnav7777/arnav7777/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arnav7777/arnav7777/output/github-snake-light.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/arnav7777/arnav7777/output/github-snake-light.svg" width="100%">
-</picture>
+<img src="https://github-profile-trophy.vercel.app/?username=nomanchaudhary&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
 
 </div>
 
@@ -265,43 +244,28 @@ Foundational professional experience in frontend development, working with real-
 ## 🎯 Current Focus
 
 ```yaml
-learning:
-  - Advanced TypeScript patterns and performance optimisation
-  - Scalable RESTful API architectures with optimised MongoDB schemas
-
-building:
-  - Production-grade MERN + React Native applications
-  - Scalable RESTful API architectures with optimised MongoDB schemas
-
-exploring:
-  - Playwright end-to-end testing strategies
-  - Advanced animation and micro-interaction design with Framer Motion
-
-open_to:
-  - Full-time Full Stack / Mobile Developer roles
-  - Freelance or contract product engineering projects
-  - Open source collaboration
+building:   Production-grade MERN + React Native apps for startups & businesses
+exploring:  RAG pipelines, LLM integrations and AI-powered UX
+learning:   Advanced TypeScript patterns and API performance
+open_to:    Freelance & contract projects · Full-time Full Stack / Mobile roles
 ```
 
 ---
 
-## 🤝 Connect
+## 🤝 Let's Work Together
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/nomanchaudhary1618%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nomanchaudhary1618@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin%2Fin%2Fnomanchaudhary00-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nomanchaudhary00)
-[![GitHub](https://img.shields.io/badge/github%2Fnomanchaudhary-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nomanchaudhary)
-[![Phone](https://img.shields.io/badge/%2B92%20309%205768407-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923095768407)
+Have an idea? Let's turn it into a product.
 
-</div>
+[![Book a Call](https://img.shields.io/badge/📅%20Book%20a%2030--min%20Strategy%20Call-7b2ff7?style=for-the-badge)](https://calendly.com/nomanthedev)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-1b0b3a?style=for-the-badge)](https://muhammadnoman.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nomanchaudhary00)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nomanchaudhary1618@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923095768407)
 
----
+*"Clean architecture, fluid performance, and real-world impact, from concept to deployment."*
 
-<div align="center">
-
-*"Clean architecture, fluid performance, and real-world impact — from concept to deployment."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9b4dff,50:6d28d9,100:3b0f8c&height=110&section=footer" width="100%"/>
 
 </div>
